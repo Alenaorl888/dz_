@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\bin\Debug\net6.0\exzampl003.exe
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\bin\Debug\net6.0\exzampl003.deps.json
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\bin\Debug\net6.0\exzampl003.runtimeconfig.json
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\bin\Debug\net6.0\exzampl003.dll
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\bin\Debug\net6.0\exzampl003.pdb
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.AssemblyInfo.cs
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.dll
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\refint\exzampl003.dll
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.pdb
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\exzampl003.genruntimeconfig.cache
+C:\Users\asus\Desktop\seminar\exzampl\exzampl003\obj\Debug\net6.0\ref\exzampl003.dll
